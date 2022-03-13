@@ -2,5 +2,7 @@
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "breadcrumbs.enabled": false
 }
