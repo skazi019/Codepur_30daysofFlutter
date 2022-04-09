@@ -3,6 +3,6 @@
     "editor.cursorSmoothCaretAnimation": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "breadcrumbs.enabled": false
 }
